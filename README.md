@@ -1,10 +1,10 @@
-# US_Presedential_Elction2020_Twitter_Sentiment_Analysis
+# US_Presedential_Election2020_Twitter_Sentiment_Analysis
 
-**Objective: Using Python Script Extraction of tweets and Perform sentiment analysis on the presidential candidature of Donald Trump, Joe Biden before the elections in US in November, 2020.**
-In this analysis extraction of tweets using Twitter's API, and GetOldTweets library to overcome the timeframe limitations of Twitter API is done. After extraction, I have done preprocessing for cleaning the datasets, basic EDA, sentiment analysis to observe polarity towards each candidate, used classification models on these sentiments and created visualizations.
+**Objective: Using Python Script for Extraction of tweets and Performing sentiment analysis on the presidential candidature of Donald Trump, Joe Biden before the elections in US in November, 2020.**
+In this analysis extraction of tweets is done using Twitter's API, and GetOldTweets library to overcome the timeframe limitations of Twitter API. After extraction, I perform preprocessing for cleaning the datasets, basic EDA, sentiment analysis to observe polarity towards each candidate and use classification models on these sentiments and create visualizations.
 
 **Data Preprocessing :** 
-Data Preprocessing is a very crusial part for this project.Data preprocessing is the process of transforming raw data into a useful, understandable format.By preprocessing data, we make it easier to interpret and use. This process eliminates inconsistencies or duplicates in data, which can otherwise negatively affect a model’s accuracy. Data preprocessing also ensures that there aren’t any incorrect or missing values due to human error or bugs. In short, employing data preprocessing techniques makes the database more complete and accurate.
+Data Preprocessing is a very crucial part for this project.Data preprocessing is the process of transforming raw data into a useful, understandable format.By preprocessing data, we make it easier to interpret and use. This process eliminates inconsistencies or duplicates in data, which can otherwise negatively affect a model’s accuracy. Data preprocessing also ensures that there aren’t any incorrect or missing values due to human error or bugs. In short, employing data preprocessing techniques makes the dataset more complete and accurate.
 Steps to process the twitter data :
 
 * Using Regular Expressions to remove Emojis from Tweets
@@ -145,4 +145,4 @@ Lexicon file is used to calculate the sentiment of each tweets.
 <p align="center">
 <img src = "https://github.com/Arupsau/Twitter_Sentiment_Analysis_US_Presedential_Elction2020/blob/main/Visualizations/Joe%20Biden/DL%20Train%20and%20Validation%20Accuracy.png">
 </p>
-<h5>Deep Learning based Training and Validation acuracy graph for Joe Biden </h5>
+<h5>Deep Learning based Training and Validation accuracy graph for Joe Biden </h5>
