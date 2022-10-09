@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis_US_Presedential_Elction2020
+# US_Presedential_Elction2020_Twitter_Sentiment_Analysis
 
 **Objective: Using Python Script Extraction of tweets and Perform sentiment analysis on the presidential candidature of Donald Trump, Joe Biden before the elections in US in November, 2020.**
 In this analysis extraction of tweets using Twitter's API, and GetOldTweets library to overcome the timeframe limitations of Twitter API is done. After extraction, I have done preprocessing for cleaning the datasets, basic EDA, sentiment analysis to observe polarity towards each candidate, used classification models on these sentiments and created visualizations.
